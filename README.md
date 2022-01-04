@@ -74,4 +74,4 @@ php artisan serve
 
 ## Authors
 
-* **Robert Ren** https://github.com/robertren1
+* **Robert Ren** https://github.com/rob-ren
